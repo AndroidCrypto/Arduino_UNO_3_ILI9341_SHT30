@@ -11,6 +11,8 @@ This repository accompanies the article "**Connect an ILI9341 TFT Display and SH
 
 **A word of urgent warning right at the start: please never connect a display or sensor to an Arduino UNO before familiarizing yourself with the technical details of your hardware - otherwise, you could destroy your devices.**
 
+![Image 1](./images/unor3_ili9341_sht30_01_600w.png)
+
 ## Wiring
 
 ### SPI (Display) Interface
