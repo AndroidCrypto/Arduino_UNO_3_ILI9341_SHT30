@@ -18,8 +18,8 @@ This repository accompanies the article "**Connect an ILI9341 TFT Display and SH
 ### SPI (Display) Interface
 ````plaintext
 MOSI: 11
-SCLK: 12
-MISO: 13
+MISO: 12
+SCLK: 13
 RST:   8
 DC:    9
 CS:   10
@@ -30,6 +30,8 @@ CS:   10
 SDA:  A5
 SCL:  A4
 ````
+
+![Image 1](./images/unor3_ili9341_sht30_02_600w.png)
 
 ## Development Environment (Arduino)
 ````plaintext
