@@ -1,6 +1,6 @@
 # Arduino UNO R3 with ILI9341 TFT Display and SHT30 Environment Sensor
 
-This repository accompanies the article "**Connect an ILI9341 TFT Display and SHT30 Environment Sensor to an Arduino UNO R3**" published here:
+This repository accompanies the article "**Connect an ILI9341 TFT Display and SHT30 Environment Sensor to an Arduino UNO R3**" published here: https://medium.com/@androidcrypto/connect-an-ili9341-tft-display-and-sht30-environment-sensor-to-an-arduino-uno-r3-1613eb34e98e?sharedUserId=androidcrypto
 
 ## Hardware used for the project
 
