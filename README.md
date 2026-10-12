@@ -31,7 +31,7 @@ SDA:  A5
 SCL:  A4
 ````
 
-![Image 1](./images/unor3_ili9341_sht30_02_600w.png)
+![Image 2](./images/unor3_ili9341_sht30_02_600w.png)
 
 ## Development Environment (Arduino)
 ````plaintext
